@@ -1,0 +1,33 @@
+
+{
+  "episode_id": "sample_episode",
+  "title": "Walking in Faith",
+  "scripture": {
+    "reference": "Proverbs 3:5-6",
+    "text": "Trust in the Lord with all your heart."
+  },
+  "theme": "Trusting God",
+  "target_duration_minutes": 2,
+  "voice": "en-US-AndrewNeural",
+  "language": "en-US",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "Opening",
+      "purpose": "Introduce the devotional theme.",
+      "narration": "This is sample narration for demonstrating the pipeline."
+    },
+    {
+      "scene_number": 2,
+      "title": "Scripture Reflection",
+      "purpose": "Reflect on the selected Bible passage.",
+      "narration": "This placeholder demonstrates where the spoken reflection belongs."
+    },
+    {
+      "scene_number": 3,
+      "title": "Closing Declaration",
+      "purpose": "Conclude with a practical faith declaration.",
+      "narration": "This is sample closing narration, not a finished devotional."
+    }
+  ]
+}
